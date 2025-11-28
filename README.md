@@ -1,7 +1,11 @@
 # Tic-Tac-Toe Game
-
 This is my first Tic-Tac-Toe project written in C.  
 It is a simple two-player game that displays the board after every move and automatically checks for a win or draw.
+
+## Game Preview
+Below is a preview of the game in action, showing the board layout and player prompts.
+
+![Tic-Tac-Toe Gameplay](Sample page.png)
 
 ## How to Run
 1. Open terminal or command prompt  
