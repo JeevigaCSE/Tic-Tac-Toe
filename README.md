@@ -5,7 +5,7 @@ It is a simple two-player game that displays the board after every move and auto
 ## Game Preview
 Below is a preview of the game in action, showing the board layout and player prompts.
 
-![Tic-Tac-Toe Gameplay](Sample page.png)
+![Tic-Tac-Toe Gameplay](Sample_page.png)
 
 ## How to Run
 1. Open terminal or command prompt  
